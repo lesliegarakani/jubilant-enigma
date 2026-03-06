@@ -1,0 +1,32 @@
+{
+  "standards": [
+    {
+      "id": "3.6A",
+      "grade": 3,
+      "subject": "Reading",
+      "description": "Generate questions about text before, during, and after reading to deepen understanding.",
+      "prerequisites": []
+    },
+    {
+      "id": "3.6C",
+      "grade": 3,
+      "subject": "Reading",
+      "description": "Make and correct or confirm predictions using text features and evidence.",
+      "prerequisites": ["3.6A"]
+    },
+    {
+      "id": "3.7D",
+      "grade": 3,
+      "subject": "Reading",
+      "description": "Retell, paraphrase, or summarize texts in ways that maintain meaning and order.",
+      "prerequisites": ["3.6A"]
+    },
+    {
+      "id": "4.6F",
+      "grade": 4,
+      "subject": "Reading",
+      "description": "Make inferences and use evidence to support understanding of text.",
+      "prerequisites": ["3.6C", "3.7D"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+student_id,student_name,subject,grade,standard_id,mastery_score,engagement_score,preferred_modality
+S001,Ana Lopez,Reading,3,3.6A,0.62,0.73,visual
+S001,Ana Lopez,Reading,3,3.6C,0.58,0.73,visual
+S001,Ana Lopez,Reading,3,3.7D,0.71,0.73,visual
+S002,Marcus Reed,Reading,3,3.6A,0.45,0.51,collaborative
+S002,Marcus Reed,Reading,3,3.6C,0.49,0.51,collaborative
+S002,Marcus Reed,Reading,3,3.7D,0.54,0.51,collaborative
